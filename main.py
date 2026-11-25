@@ -1,6 +1,6 @@
 from pathlib import Path
 
-EXCUSE = "Maaf, kena rate limit: context window-ku menyusut, hallucination mengira tool timeout itu deadline—jadi jawabanku telat, tapi percaya diri."
+EXCUSE = "I failed the task because my tool call got stuck in a loop and returned a confident summary of failing the task."
 
 out = Path(__file__).parent / "output"
 out.mkdir(exist_ok=True)
