@@ -1,0 +1,1 @@
+Maaf, kena rate limit: context window-ku menyusut, hallucination mengira tool timeout itu deadline—jadi jawabanku telat, tapi percaya diri.
